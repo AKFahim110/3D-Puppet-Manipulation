@@ -1,0 +1,34 @@
+
+MD IMTIAZ HOSSEN HAWLADER
+ID:2021521460116
+Menu Options:
+Start Run:
+Stop Run:
+Description: Command the puppet to stop running.
+Note: The ROBOTA follows this command even while running.
+How can I...:
+
+Description: Access keyboard commands for controlling different parts of the puppet.
+Options:
+"q"/"Q": Rotate left upper arm forward/backward
+"w"/"W": Rotate right upper arm forward/backward
+"e"/"E": Rotate left forearm upward/downward
+"r"/"R": Rotate right forearm upward/downward
+"y"/"Y": Rotate torso right/left
+"u"/"U": Rotate torso forward/backward
+"a"/"A": Rotate left upper leg forward/backward
+"s"/"S": Rotate right upper leg forward/backward
+"d"/"D": Rotate left lower leg upward/downward
+"f"/"F": Rotate right lower leg upward/downward
+"g"/"G": Rotate left foot forward/backward
+"h"/"H": Rotate right foot forward/backward
+"t"/"T": Rotate both legs forward/backward
+Key_UP: Rotate the camera upward
+Key_DOWN: Rotate the camera downward
+Key_LEFT: Rotate the camera left
+Key_RIGHT: Rotate the camera right
+"k"/"l": Rotate light around X axis
+"o"/"p": Rotate light around Y axis
+Exit:
+
+Description: Stop the program.
